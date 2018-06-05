@@ -1,0 +1,8 @@
+{
+  "chooseLanguage": "Choose language",
+  "enterParameters": "Enter Parameters",
+  "nameLabel": "Name",
+  "numberLabel": "Number",
+  "someText": "Hello again {name}, you have {number, plural, =0 {nothing} =1 {one thing} other {# things}}.",
+  "welcome": "Hello!"
+}

@@ -1,0 +1,8 @@
+{
+  "chooseLanguage": "Whiriwhiri Reo",
+  "enterParameters": "Tomo ki nga tawhā",
+  "nameLabel": "Ingoa",
+  "numberLabel": "Tau",
+  "someText": "Aroha ano {name}, {number, plural, =0 {kahore he mea} =1 {kotahi te mea} other {e # nga mea kei a koe}}",
+  "welcome": "Kia ora!"
+}

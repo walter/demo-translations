@@ -1,0 +1,8 @@
+{
+  "chooseLanguage": "اختر اللغة",
+  "enterParameters": "أدخل المعلمات",
+  "nameLabel": "اسم",
+  "numberLabel": "رقم",
+  "someText": "{name} مرحبا مجددا, {number, plural, =0 {ليس لديك شيء} =1  {لديك شيء واحد} other {لديك # أشياء}}.",
+  "welcome": "مرحبا"
+}
